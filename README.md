@@ -1,7 +1,7 @@
 ## Olá Mundo!
 
 - 🌱 atualmente eu estou estudando desenvolvimento de sistemas (com aplicações front-end e back-end);
-- 📫 você pode me contatar pelo meu e-mail: contato.suzuki06@gmail.com
+- 📫 você pode me contatar pelo meu e-mail: murisuzuki11@gmail.com
 - 😄 Pronouns: ele/dele
 
 ##
